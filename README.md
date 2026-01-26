@@ -1,4 +1,4 @@
-## On the Robustness of Foundational 3D Medical Image Segmentation Models Against Imprecise Visual Prompts
+## [On the Robustness of Foundational 3D Medical Image Segmentation Models Against Imprecise Visual Prompts](https://arxiv.org/abs/2601.16383)
 
 Accepted at ISBI 2026! 🎉
 More details coming soon, stay tuned.
